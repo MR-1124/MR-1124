@@ -37,6 +37,14 @@ Fun Fact:        I break things on purpose to try to make them better
 
 ---
 
+## 📚 Currently Learning
+
+```yaml
+🔧 Frameworks:     Express.js, Tailwind CSS
+🧠 Concepts:       RESTful APIs, MVC architecture
+```
+---
+
 ## 🧰 Tech Toolbox
 
 <div align="center">

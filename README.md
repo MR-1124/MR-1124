@@ -1,9 +1,14 @@
 
 <!-- 💎 Mayan's GitHub Profile README -->
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&center=true&vCenter=true&width=560&lines=Hey+There!+I'm+Mayan+👋;Full-Stack+Dev+in+Progress+💻;" alt="Typing SVG" />
-</h1>
+
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F0FF&center=true&width=500&lines=Hey+There!+I'm+Mayan+👋;Full-Stack+Dev+in+Progress+💻;" alt="Typing SVG" />
+</div>
+
+
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=MR-1124&label=Profile%20Views&color=blueviolet&style=flat-square" />
@@ -86,10 +91,11 @@ Fun Fact:        I break things on purpose to try to make them better
 
 ---
 
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F0FF&center=true&width=600&lines=💖+Thanks+for+visiting+my+profile!;✨+Let's+build+something+amazing+together!" />
+</div>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=560&lines=💖+Thanks+for+visiting+my+profile!;✨+Let's+build+something+amazing+together!" />
-</p>
+
 
 
 

@@ -90,7 +90,7 @@ Fun Fact:        I break things on purpose to try to make them better
 
 ---
 
-## 🧩 Fun & Quirky Facts
+## 🧩 Some Fun Facts About Me
 
 * 💬 Ask me about: anything web dev, PHP quirks, or gaming 
 * 🧪 Addicted to polishing UI until it shines ✨

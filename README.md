@@ -56,14 +56,14 @@ Fun Fact:        I break things on purpose to try to make them better
 ## 📈 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MR-1124&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=MR-1124&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MR-1124&show_icons=true&theme=merko&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=MR-1124&theme=merko&hide_border=true" width="48%" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MR-1124&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MR-1124&theme=merko" />
 </div>
 
 ---
@@ -102,12 +102,4 @@ Fun Fact:        I break things on purpose to try to make them better
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F0FF&center=true&width=600&lines=💖+Thanks+for+visiting+my+profile!;✨+Let's+build+something+amazing+together!" />
 </div>
-
-
-
-
-
-
-
-
 

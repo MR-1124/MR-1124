@@ -48,7 +48,7 @@ Fun Fact:        I break things on purpose to try to make them better
 ## 🧰 Tech Toolbox
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,react,nodejs,bootstrap,tailwind,github,git,figma,vscode,java,cpp,python" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,mongodb,react,nodejs,bootstrap,tailwind,github,git,figma,vscode,java,cpp,python" />
 </div>
 
 ---

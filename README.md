@@ -1,10 +1,11 @@
 
 <!-- 💎 Mayan's GitHub Profile README -->
 
-
+<br>
+<br>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F0FF&center=true&width=500&lines=Hey+There!+I'm+Mayan+👋;Full-Stack+Dev+in+Progress+💻;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=38&duration=3000&pause=1000&color=b5ff00&center=true&width=680&lines=Hey+There!+I'm+Mayan+👋;Full-Stack+Dev+in+Progress+💻;" alt="Typing SVG" />
 </div>
 
 

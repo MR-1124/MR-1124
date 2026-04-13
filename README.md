@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1200&color=00E5FF&center=true&width=600&lines=Full-Stack+Developer+%F0%9F%92%BB;Published+AI+Researcher+%F0%9F%A7%A0;Game+Dev+Enthusiast+%F0%9F%8E%AE;Drawing+Anime+%E2%9C%8F%EF%B8%8F+%7C+Writing+Code+%F0%9F%96%A5%EF%B8%8F" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1200&color=00E5FF&center=true&width=600&lines=Full-Stack+Developer+%F0%9F%92%BB;Published+AI+Researcher+%F0%9F%A7%A0;Game+Dev+Enthusiast+%F0%9F%8E%AE;Learning+Art+%E2%9C%8F%EF%B8%8F+%7C+Writing+Code+%F0%9F%96%A5%EF%B8%8F" alt="Typing SVG" />
 </div>
 
 <br/>
@@ -176,11 +176,11 @@ Explores how AI governance frameworks should be embedded across software develop
 ## 📅 What I'm Up To
 
 ```
-🎯 Main Focus     →  DSA grind — arrays to graphs, prepping for placements
+🎯 Main Focus     →  DSA grind — prepping for placements
 🌐 Building       →  Full-stack projects to stack the resume (MERN + REST APIs)
 ☁️  Sharpening    →  System Design fundamentals + AWS for real-world depth
 🎮 Side Hobby     →  Unity + C# — slow burn toward game dev, no rush
-✏️  Daily Ritual  →  JoJo-influenced anime sketches, one a day
+✏️  Daily Ritual  →  Practicing art every day
 ```
 
 ---

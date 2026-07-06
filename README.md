@@ -109,6 +109,7 @@ Explores how AI governance frameworks should be embedded across software develop
   **📊 Game Score Simulator**  
   `Flask` `Python` `Numerical Methods`  
   Score evolution simulator with math-heavy visualizations. Built for a uni numerical methods project.
+  [🔗 Live](https://game-score-simulator.onrender.com/)
 
   </td>
 </tr>

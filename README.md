@@ -98,10 +98,10 @@ Explores how AI governance frameworks should be embedded across software develop
 <tr>
   <td width="50%">
 
-  **🛒 E-Commerce Site**  
-  `PHP` `MySQL` `Bootstrap`  
-  Dynamic storefront with cart system, product management & admin panel.  
-  [🔗 GitHub](https://github.com/MR-1124/PHP-Ecommerce-Site)
+  **🔒 CertVault**  
+  `Next.js` `Prisma` `PostgreSQL`  
+  Personal credentials hub with edge rate-limiting, secure SHA-256 API token verification & developer integration tools.  
+  [🔗 Live](https://certivault-puce.vercel.app/)
 
   </td>
   <td width="50%">

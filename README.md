@@ -25,7 +25,7 @@
 const mayan = {
   name:       "Mayan Roy",
   role:       "CS Student → Full-Stack Dev",
-  university: "Chandigarh University | B.Tech CSE | 6th Sem",
+  university: "Chandigarh University | B.Tech CSE | 7th Sem",
   research:   "Published @ RACCAI-2026 — AI Governance in SDLC",
   
   stack:      ["React", "Node.js", "Express", "MongoDB", "MySQL", "PHP"],

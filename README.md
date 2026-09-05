@@ -66,7 +66,7 @@ Explores how AI governance frameworks should be embedded across software develop
   **🧬 Pokédex Web App** `[In Progress]`  
   `React` `PokéAPI` `Chart.js`  
   Full Pokédex with search, type filters, evolution chains & stat radar charts. Clean, fast, and obsessive about UI polish.  
-  [🔗 Live Preview](https://mr-1124.github.io/work-in-progress/)
+  [🔗 Live Preview](https://pokedex-ashen-psi.vercel.app/)
 
   </td>
   <td width="50%">
